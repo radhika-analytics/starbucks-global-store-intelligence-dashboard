@@ -170,10 +170,6 @@ Data Analyst | Power BI | SQL | Data Visualization
 
 ---
 
-## Dashboard Preview
-
-(Add your dashboard screenshots here)
-
 ## Project Report
 
 Detailed project report available inside the repository.
