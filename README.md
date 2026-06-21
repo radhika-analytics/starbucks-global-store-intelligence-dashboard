@@ -44,7 +44,7 @@ The dataset contains:
 * City
 * Ownership Type
 * Latitude
-* Longitude
+* Longitude 
 * Address Information
 
 ---
